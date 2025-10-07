@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 I'm Tianfu LI, currently pursuing a M.Phil. degree in ROBOTICS & AUTONOMOUS SYSTEMS at Hong Kong University of Science and Technology (Guangzhou), supervised by Prof. Haoang LI. My work sits in the broad field of Embodied AI & Autonomous Driving, zooming in on Vision-and-Language Navigation and Action (VLN, VLA). 
+
 • Contact: <code>tli794@connect.hkust-gz.edu.cn</code>
+
 • Homepage: <code>https://tianfu-li.github.io</code>
 
 ### Education  
