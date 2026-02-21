@@ -8,9 +8,9 @@ I'm Tianfu LI, currently pursuing a M.Phil. degree in ROBOTICS & AUTONOMOUS SYST
 
 
 ## Education  
-• **M.Phil. in Robotics and Automation Systems** (GPA: 4.00/4.3), Hong Kong University of Science and Technology (Guangzhou), China, 2024 - Present
+• **M.Phil. in Robotics and Automation Systems**, Hong Kong University of Science and Technology (Guangzhou), China, 2024 - Present
 
-• **B.Eng. in Computer Science and Technology** (GPA: 3.66/4.0), Sichuan University, China, 2020 - 2024
+• **B.Eng. in Computer Science and Technology**, Sichuan University, China, 2020 - 2024
 
 
 
