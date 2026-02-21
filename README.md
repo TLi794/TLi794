@@ -12,6 +12,8 @@ I'm Tianfu LI, currently pursuing a M.Phil. degree in ROBOTICS & AUTONOMOUS SYST
 
 • **B.Eng. in Computer Science and Technology**, Sichuan University, China, 2020 - 2024
 
+## Internship
+• Robotic Manipulation Algorithm Engineer, **Knowin AI**, Jan. 2026 - Present
 
 
 
