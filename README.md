@@ -4,7 +4,7 @@ I'm Tianfu LI, currently pursuing a M.Phil. degree in ROBOTICS & AUTONOMOUS SYST
 
 • Contact: <code>tli794@connect.hkust-gz.edu.cn</code>
 
-• Homepage: <code>https://tli794.github.io/resume/</code>
+• Homepage: <code>https://tli794.github.io/homepage/</code>
 
 
 ## Education  
